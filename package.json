@@ -1,5 +1,6 @@
 {
   "name": "morenogitpages",
+  "homepage": "https://github.com/martinYulo15/moreno_gitpages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,6 +39,5 @@
       "last 1 safari version"
     ]
     
-  },
-  "homepage": "https://github.com/martinYulo15/moreno_gitpages/"
+  }
 }
